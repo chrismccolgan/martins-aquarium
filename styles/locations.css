@@ -4,10 +4,23 @@
 
 .location {
     background-color: mediumseagreen;
+    display: flex;
+    flex-direction: column;
 }
-
 
 .location__picture {
     max-width: 15rem;
     max-height: 15rem;
+}
+
+.location__container {
+    display: flex;
+    flex-direction: row;
+}
+
+.location__details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }

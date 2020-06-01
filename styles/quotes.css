@@ -1,7 +1,10 @@
 .quoteList {
     background-color: lightyellow;
+    font-display: flex;
+    flex-direction: column;
 }
 
 .quote {
     background-color: yellow;
+    font-style: italic;
 }

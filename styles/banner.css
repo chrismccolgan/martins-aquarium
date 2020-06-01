@@ -1,3 +1,12 @@
 .banner {
     background-color: darkgoldenrod;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.banner__picture {
+    max-width: 30rem;
+    max-height: 30rem;
 }
