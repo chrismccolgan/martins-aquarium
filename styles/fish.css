@@ -4,8 +4,14 @@
 
 .fish {
     background-color: mediumvioletred;
+    display: flex;
+    flex-wrap: wrap;
 }
 
+.fish__container {
+    margin: 1em;
+    background-color: antiquewhite;
+}
 
 .fish__picture {
     max-width: 15rem;
