@@ -18,7 +18,7 @@
 .underTheBanner__left {
     display: flex;
     flex-direction: column;
-    flex: 3.5;
+    flex: 3;
 }
 
 .underTheBanner__right {
