@@ -8,14 +8,30 @@
     <link rel="stylesheet" href="styles/main.css">
 </head>
 
+
 <body>
 
     <main class="container">
 
         <div class="banner">
-            <div class="banner__logo"><img src="https://cdn.mos.cms.futurecdn.net/JNNXPW2vcAY4zqZjNBYpXV-970-80.jpg" class="banner__picture"></div>
+            <div class="banner__logo"><img src="https://cdn.mos.cms.futurecdn.net/JNNXPW2vcAY4zqZjNBYpXV-970-80.jpg"
+                    class="banner__picture"></div>
             <h1 class="banner__title">Martin's Aquarium</h1>
         </div>
+
+        <section class="customization">
+            <select class="typeChoice">
+                <option value="all">Show All Fish</option>
+                <option value="holy">Holy Fish</option>
+                <option value="soldier">Soldier Fish</option>
+                <option value="plebs">Commoners</option>
+            </select>
+
+            <button class="toggleFish">Toggle Fish</button>
+            <button class="toggleLocation">Toggle Location</button>
+            <button class="toggleTips">Toggle Tips</button>
+        </section>
+
 
         <div class="underTheBanner">
 
@@ -26,13 +42,13 @@
 
                 <article class="fishList">
                     <section class="fish">
-                    
+
                     </section>
                 </article>
 
                 <article class="locationList">
                     <section class="location">
-                       
+
                     </section>
                 </article>
             </div>
@@ -57,8 +73,8 @@
     <script src="scripts/quotes/quoteList.js"></script>
     <script src="scripts/quotes/quoteData.js"></script>
     <script src="scripts/fish/fish.js"></script>
-    <script src="scripts/fish/fishList.js"></script>
     <script src="scripts/fish/fishData.js"></script>
+    <script src="scripts/fish/fishList.js"></script>
     <script src="scripts/main.js"></script>
 
 </body>

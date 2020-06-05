@@ -1,0 +1,118 @@
+{
+  "fish": [
+    {
+      "name": "Angus",
+      "species": "Parrot Fish",
+      "length": 25,
+      "location": "Sea of Google",
+      "food": "Popcorn",
+      "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+      "id": 1
+    },
+    {
+      "name": "Dot",
+      "species": "Parrot Fish",
+      "length": 3,
+      "location": "Sea of Google",
+      "food": "Popcorn",
+      "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+      "id": 2
+    },
+    {
+      "name": "Scabby",
+      "species": "Parrot Fish",
+      "length": 23,
+      "location": "Sea of Google",
+      "food": "Popcorn",
+      "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+      "id": 3
+    },
+    {
+      "name": "Kisses",
+      "species": "Parrot Fish",
+      "length": 11,
+      "location": "Sea of Google",
+      "food": "Popcorn",
+      "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+      "id": 4
+    },
+    {
+      "name": "Momo",
+      "species": "Parrot Fish",
+      "length": 12,
+      "location": "Sea of Google",
+      "food": "Popcorn",
+      "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+      "id": 5
+    },
+    {
+      "name": "Stinky",
+      "species": "Parrot Fish",
+      "length": 13,
+      "location": "Sea of Google",
+      "food": "Popcorn",
+      "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+      "id": 6
+    },
+    {
+      "name": "Baby",
+      "species": "Parrot Fish",
+      "length": 20,
+      "location": "Sea of Google",
+      "food": "Popcorn",
+      "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+      "id": 7
+    },
+    {
+      "name": "Sushi",
+      "species": "Parrot Fish",
+      "length": 16,
+      "location": "Sea of Google",
+      "food": "Popcorn",
+      "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+      "id": 8
+    },
+    {
+      "name": "test",
+      "species": "Parrot Fish",
+      "length": 25,
+      "location": "Sea of Google",
+      "food": "Popcorn",
+      "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+      "id": 9
+    }
+  ],
+  "locations": [
+    {
+      "picture": "https://caribbeannewsservice.com/now/wp-content/uploads/2017/05/Caribbean-Sea.jpg",
+      "location": "Water",
+      "description": "Artisan ugh godard kombucha lyft freegan XOXO raclette enamel pin church-key la croix franzen skateboard."
+    },
+    {
+      "picture": "https://caribbeannewsservice.com/now/wp-content/uploads/2017/05/Caribbean-Sea.jpg",
+      "location": "Water",
+      "description": "Artisan ugh godard kombucha lyft freegan XOXO raclette enamel pin church-key la croix franzen skateboard."
+    }
+  ],
+  "tips": [
+    {
+      "tip": "Fish don't have legs."
+    },
+    {
+      "tip": "Fish live in water."
+    },
+    {
+      "tip": "Fish is the main ingredient in sushi."
+    }
+  ],
+  "quotes": [
+    {
+      "quote": "Really good fish!",
+      "author": "Maya Buttreeks"
+    },
+    {
+      "quote": "I like turtles!",
+      "author": "Rhonda Accord"
+    }
+  ]
+}

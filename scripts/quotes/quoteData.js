@@ -1,10 +1,14 @@
-const quoteCollection = [
-    {
-        quote: "Really good fish!",
-        author: "Maya Buttreeks"
-    },
-    {
-        quote: "I like turtles!",
-        author: "Rhonda Accord"
-    }
-]
+let quoteCollection = []
+
+const getQuoteData = () => {
+    return fetch("http://localhost:8088/quotes").then(
+        (httpResponse) => {
+                return httpResponse.json()
+        }
+    )
+    .then(
+        (arrayOfQuotes) => {
+            quoteCollection = arrayOfQuotes
+        }
+    )
+}
