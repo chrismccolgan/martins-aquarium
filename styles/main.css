@@ -24,3 +24,7 @@
 .underTheBanner__right {
     flex: 1;
 }
+
+.hidden {
+    display:none;
+}
